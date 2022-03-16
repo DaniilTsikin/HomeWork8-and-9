@@ -1,0 +1,15 @@
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\Task59.exe
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\Task59.deps.json
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\Task59.runtimeconfig.json
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\Task59.dll
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\ref\Task59.dll
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\bin\Debug\net6.0\Task59.pdb
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.AssemblyInfo.cs
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.dll
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\ref\Task59.dll
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.pdb
+C:\Users\dante\Desktop\HomeWork8_and_9\Task59\obj\Debug\net6.0\Task59.genruntimeconfig.cache
